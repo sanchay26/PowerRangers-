@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="POWERRANGERS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DanFango-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="POWERRANGERS:war exploded" />
+    </root>
+  </artifact>
+</component>
